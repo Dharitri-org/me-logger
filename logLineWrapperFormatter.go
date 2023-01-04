@@ -1,7 +1,7 @@
 package logger
 
 import (
-	"github.com/Dharitri-org/me-logger/check"
+	"github.com/Dharitri-org/me-core/core/check"
 )
 
 // logLineWrapperFormatter converts the LogLineHandler into its marshalized form

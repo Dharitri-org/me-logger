@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/Dharitri-org/me-logger"
-	"github.com/Dharitri-org/me-logger/marshal"
+	"github.com/Dharitri-org/me-core/marshal"
+	logger "github.com/Dharitri-org/me-logger"
 	"github.com/Dharitri-org/me-logger/proto"
 	"github.com/stretchr/testify/assert"
 )

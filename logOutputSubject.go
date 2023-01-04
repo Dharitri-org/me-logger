@@ -5,7 +5,7 @@ import (
 	"io"
 	"sync"
 
-	"github.com/Dharitri-org/me-logger/check"
+	"github.com/Dharitri-org/me-core/core/check"
 )
 
 var _ LogOutputHandler = (*logOutputSubject)(nil)
