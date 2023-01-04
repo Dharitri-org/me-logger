@@ -1,11 +1,10 @@
 package logger_test
 
 import (
-	"github.com/Dharitri-org/me-core/core/check"
 	"sync/atomic"
-
 	"testing"
 
+	"github.com/Dharitri-org/me-core/core/check"
 	logger "github.com/Dharitri-org/me-logger"
 	"github.com/Dharitri-org/me-logger/mock"
 	"github.com/stretchr/testify/assert"
